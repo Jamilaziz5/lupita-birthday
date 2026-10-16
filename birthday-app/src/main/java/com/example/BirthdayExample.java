@@ -51,8 +51,8 @@ public class BirthdayExample {
       birthdayMap.put(name, birthday);
 
       // print the names and birthdays
-      System.out.println("name = " + name);
-      System.out.println("birthday = " + birthday);
+      // System.out.println("name = " + name);
+      // System.out.println("birthday = " + birthday);
     }
   }
 
@@ -63,7 +63,7 @@ public class BirthdayExample {
      * extra credit module on Files, Directories, and Folders in Canvas.
      */
     String pathToFile =
-      "birthdayOnlyForTesting.json";
+      "birthday.json";
 
     // students should change the code below in order to implment their own solution
 
